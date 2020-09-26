@@ -1,0 +1,22 @@
+{
+  "name": "parsing-req-bodies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkhazzam/parsing-req-bodies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexkhazzam/parsing-req-bodies/issues"
+  },
+  "homepage": "https://github.com/alexkhazzam/parsing-req-bodies#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
